@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img style="border-radius: 1rem" src="./images/app-ss.png">
+<img style="border-radius: 1rem" src="./images/app-ss.png" height="200" width="200">
 
 Sometimes its good to have a 
 This Application Provides Official Weather Information of any country or place in the world. 
