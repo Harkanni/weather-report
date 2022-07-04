@@ -7,7 +7,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/othneildrew/othneildrew.github.io">
     <img src="https://www.pngfind.com/mpng/bohJmT_paper-plane-vector-paper-plane-animated-gif-hd/" alt="Logo" width="80" height="80">
   </a>
@@ -20,7 +20,7 @@
     ·
     <a href="https://harkanni.github.io/weather-report/issues">Report Bug</a>
   </p>
-</p>
+</p> -->
 
 
 
