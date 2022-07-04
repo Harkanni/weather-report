@@ -40,16 +40,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img style="border-radius: 50%" src="./images/app-ss.png" height="200" width="200">
+[![https://www.GetWeatherReport.io][product-screenshot]](https://harkanni.github.io/weather-report/)
 
-Sometimes its good to have a 
+It's a really good practice to know the weather conditon and plan accordingly.
 This Application Provides Official Weather Information of any country or place in the world. 
 You can access the current weather data for any location on Earth including over 200,000 cities! The data is frequently updated based on the global and local weather models, satellites, radars and a vast network of weather stations managed by openweathermap. <br>
 This data is being supplied by [![https://www.openweathermap.io][open-weathermap-image]](https://openweathermap.org/), openweathermap makes official weather observations in their respective countries. Links to their official weather service websites and API services are listed below.
 Weather icons are also shown alongside worded forecasts in this version to facilitate visual inspection.
-
-
-<!-- Every great developer has a personal website filled with amazing examples of their code - Here's mine. Interested in working together or hiring me for your project? Contact me at  -->codeguydrew@gmail.com
 
 ### Built With
 
