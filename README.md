@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![https://www.GetWeatherReport.io][product-screenshot]](https://harkanni.github.io/weather-report/)
+<p style="border-radius: 1rem">[![https://www.GetWeatherReport.io][product-screenshot]](https://harkanni.github.io/weather-report/)</p>
 
 Sometimes its good to have a 
 This Application Provides Official Weather Information of any country or place in the world. 
