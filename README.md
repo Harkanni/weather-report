@@ -122,4 +122,4 @@ Project Link: [https://GetWeatherReport.io](https://harkanni.github.io/weather-r
 [license-url]: https://choosealicense.com/licenses/mit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/akanniemmanuel
-[product-screenshot]: ./images/projects/portfolio.jpg
+[product-screenshot]: ./images/app-ss.png
