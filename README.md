@@ -3,23 +3,22 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- https://www.pngfind.com/mpng/bohJmT_paper-plane-vector-paper-plane-animated-gif-hd/ -->
+<!--  -->
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/othneildrew.github.io">
-    <img src="./images/airplane.png" alt="Logo" width="80" height="80">
+    <img src="https://www.pngfind.com/mpng/bohJmT_paper-plane-vector-paper-plane-animated-gif-hd/" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">othneildrew.github.io</h3>
+  <h3 align="center">Weather App</h3>
 
   <p align="center">
-    Personal/Project website hosted on GitHub Pages.
     <br />
-    <a href="https://www.othneildrew.com">View Demo</a>
+    <a href="https://harkanni.github.io/weather-report/">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/othneildrew.github.io/issues">Report Bug</a>
+    <a href="https://harkanni.github.io/weather-report/issues">Report Bug</a>
   </p>
 </p>
 
@@ -41,21 +40,34 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![https://www.othneildrew.com][product-screenshot]](https://www.othneildrew.com)
+[![https://www.GetWeatherReport.io][product-screenshot]](https://harkanni.github.io/weather-report/)
 
-Every great developer has a personal website filled with amazing examples of their code - Here's mine. Interested in working together or hiring me for your project? Contact me at codeguydrew@gmail.com
+Sometimes its good to have a 
+This Application Provides Official Weather Information of any country or place in the world. 
+You can access the current weather data for any location on Earth including over 200,000 cities! The data is frequently updated based on the global and local weather models, satellites, radars and a vast network of weather stations managed by openweathermap. <br>
+This data is being supplied by [![https://www.openweathermap.io][open-weathermap-image]](https://openweathermap.org/), openweathermap makes official weather observations in their respective countries. Links to their official weather service websites and API services are listed below.
+Weather icons are also shown alongside worded forecasts in this version to facilitate visual inspection.
+
+
+<!-- Every great developer has a personal website filled with amazing examples of their code - Here's mine. Interested in working together or hiring me for your project? Contact me at  -->codeguydrew@gmail.com
 
 ### Built With
 
+* [HTML]
+* [CSS]
 * [Bootstrap](https://getbootstrap.com)
+* [Javascript]
 * [JQuery](https://jquery.com)
+
 
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. All contributions you make are **greatly appreciated**.
+
+## How to contribute? 
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -76,33 +88,29 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Let's Get Social
 
 * [Facebook](https://facebook.com/othneildrew)
-* [Dribble](https://dribbble.com/othneildrew)
-* [LinkedIn](https://linkedin.com/in/othneildrew)
-* [Github](https://github.com/othneildrew)
-* [Bitbucket](https://bitbucket.com/othneildrew)
-* [Instagram](http://instagram.com/pilotcroix)
-* [Codepen](http://codepen.io/othneildrew)
-* [freeCodeCamp](http://freeCodeCamp.com/othneildrew)
+* [LinkedIn](https://linkedin.com/in/akanniemmanuel)
+* [Github](https://github.com/harkanni)
+* [Instagram](http://instagram.com/)
+* [Twitter](http://twitter.com/the_tech_lead)
 
 
 <!-- CONTACT -->
 ## Contact
+Interested in working together or hiring me for your project or you have a nice comment? Contact me at
+Akanni Emmanuel - [https://linkedin.com/in/othneildrew](https://linkedin.com/in/akanniemmanuel) - sendaraven2@gmail.com
 
-Othneil Drew - [https://linkedin.com/in/othneildrew](https://linkedin.com/in/othneildrew) - codeguydrew@gmail.com
-
-Project Link: [https://github.com/othneildrew/othneildrew.github.io](https://github.com/othneildrew/othneildrew.github.io)
+Project Link: [https://GetWeatherReport.io](https://harkanni.github.io/weather-report)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [GitHub Pages](https://pages.github.com)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
 * [Font Awesome](https://fontawesome.com)
-* [Material Icons](https://material.io/icons)
 * [FakeLoader.js](https://joaopereirawd.github.io/fakeLoader.js)
 * [WOW.js](https://www.delac.io/wow)
-* [EZGif.com](https://ezgif.com/maker)
+* [OpenweatherMap](https://openweathermap.org/)
+
 
 
 
@@ -113,5 +121,5 @@ Project Link: [https://github.com/othneildrew/othneildrew.github.io](https://git
 [license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
 [license-url]: https://choosealicense.com/licenses/mit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/akanniemmanuel
 [product-screenshot]: ./images/projects/portfolio.jpg
